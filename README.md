@@ -13,7 +13,7 @@ RStudioConf 2022.
 
 * Slides - **Coming Soon**
 * [RStudio Conf Schedule](https://rstudioconf2022.sched.com/event/11ibb)
-* Videos from presentation  (these won't play reliable on github, so please
+* Videos from presentation  (these won't play reliably on github, so please
       clone/checkout the repository and play locally)
     * [Drum machine](video/compose.mp4)
     * [5000 dinosaurs in {nara}](video/dino-5000.mp4)
@@ -38,6 +38,7 @@ gaming platforms.
   AnotherWorld game written and playable in R.  **Coming Soon**
 * [`pacman`](https://github.com/coolbutuseless/pacman) - full code for a 
   playable game based on Pacman.  **Coming Soon**
+  <img src="image/pacman-game.gif" width="70%" />
   
   
 ### `{eventloop}` Demos
