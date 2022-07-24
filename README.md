@@ -5,17 +5,23 @@
 This repository contains links and resources related to my talk at 
 RStudioConf 2022.
 
+<img src="image/polygons-of-another-world-realtime_talk-opt4.png" width = "50%" />
+
+
 
 ### Slides + Materials
 
 * Slides - **Coming Soon**
 * [RStudio Conf Schedule](https://rstudioconf2022.sched.com/event/11ibb)
-* Videos from presentation:
+* Videos from presentation  (these won't play reliable on github, so please
+      clone/checkout the repository and play locally)
     * [Drum machine](video/compose.mp4)
     * [5000 dinosaurs in {nara}](video/dino-5000.mp4)
     * [Another World - Intro](video/game-intro-trimmed.mp4)
     * [Another World - Jail](video/game-jail-trimmed.mp4)
-
+* Original inspiration for this talk comes  [Fabien Sanglard's blog series](https://fabiensanglard.net/another_world_polygons/index.html) where 
+they detail the struture of the game and how it was ported to different 
+gaming platforms.
 
 ### Key packages
 
@@ -23,7 +29,7 @@ RStudioConf 2022.
   a friendly wrapper around the event-driven interactivity provided by
   R graphics devices.
 * [`{nara}`](https://github.com/coolbutuseless/nara) - tools for
-  fast manipulation of R's `nativeRaster` datastructure.
+  fast manipulation of R's `nativeRaster` datastructure. **Coming Soon**
   
   
 ### Games
