@@ -11,7 +11,7 @@ RStudioConf 2022.
 
 ### Slides + Materials
 
-* Slides - **Coming Soon**
+* Slides for talk - **Coming Soon**
 * [RStudio Conf Schedule](https://rstudioconf2022.sched.com/event/11ibb)
 * Videos from presentation  (these won't play reliably on github, so please
       clone/checkout the repository and play locally)
@@ -28,17 +28,21 @@ gaming platforms.
 * [`{eventloop}`](https://github.com/coolbutuseless/eventloop) - provides 
   a friendly wrapper around the event-driven interactivity provided by
   R graphics devices.
+    * See [online documentation](https://coolbutuseless.github.io/package/eventloop/index.html)
+      to view rendered vignettes etc
 * [`{nara}`](https://github.com/coolbutuseless/nara) - tools for
-  fast manipulation of R's `nativeRaster` datastructure. **Coming Soon**
+  fast manipulation of R's `nativeRaster` datastructure. 
+    * See [online documentation](https://coolbutuseless.github.io/package/nara/index.html)
+      to view rendered vignettes etc
   
   
 ### Games
 
-* [`AnotherWorld`](https://github.com/coolbutuseless/anotherworld) - full code 
-  AnotherWorld game written and playable in R.  **Coming Soon**
 * [`pacman`](https://github.com/coolbutuseless/pacman) - full code for a 
   playable game based on Pacman.  **Coming Soon**
   <img src="image/pacman-game.gif" width="70%" />
+* [`AnotherWorld`](https://github.com/coolbutuseless/anotherworld) - full code 
+  AnotherWorld game written and playable in R.  **Coming Soon**
   
   
 ### `{eventloop}` Demos
