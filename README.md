@@ -39,7 +39,7 @@ gaming platforms.
 ### Games
 
 * [`pacman`](https://github.com/coolbutuseless/pacman) - full code for a 
-  playable game based on Pacman.  **Coming Soon**
+  playable game based on Pacman.
   <img src="image/pacman-game.gif" width="70%" />
 * [`AnotherWorld`](https://github.com/coolbutuseless/anotherworld) - full code 
   AnotherWorld game written and playable in R.  **Coming Soon**
