@@ -12,13 +12,7 @@ RStudioConf 2022.
 ### Slides + Materials
 
 * Slides for talk - **Coming Soon**
-* [RStudio Conf Schedule](https://rstudioconf2022.sched.com/event/11ibb)
-* Videos from presentation  (these won't play reliably on github, so please
-      clone/checkout the repository and play locally)
-    * [Drum machine](video/compose.mp4)
-    * [5000 dinosaurs in {nara}](video/dino-5000.mp4)
-    * [Another World - Intro](video/game-intro-trimmed.mp4)
-    * [Another World - Jail](video/game-jail-trimmed.mp4)
+* [View my Talk on RStudio Conf Schedule](https://rstudioconf2022.sched.com/event/11ibb)
 * Original inspiration for this talk comes  [Fabien Sanglard's blog series](https://fabiensanglard.net/another_world_polygons/index.html) where 
 they detail the struture of the game and how it was ported to different 
 gaming platforms.
