@@ -11,7 +11,8 @@ RStudioConf 2022.
 
 ### Slides + Materials
 
-* Slides for talk - **Coming Soon**
+* [PDF slides for talk](presentation-final.pdf) (exported from Keynote)
+    * See the [`video`](video) directory in this repo for all the animations and videos
 * [View my Talk on RStudio Conf Schedule](https://rstudioconf2022.sched.com/event/11ibb)
 * Original inspiration for this talk comes  [Fabien Sanglard's blog series](https://fabiensanglard.net/another_world_polygons/index.html) where 
 they detail the struture of the game and how it was ported to different 
@@ -30,13 +31,20 @@ gaming platforms.
       to view rendered vignettes etc
   
   
-### Games
+### Game: AnotherWorld
+
+* [`AnotherWorld`](https://github.com/coolbutuseless/anotherworld) - full code 
+  AnotherWorld game written and playable in R. 
+  
+  <img src="video/anotherworld.gif" width="70%" />
+  
+### Games: Pacman
 
 * [`pacman`](https://github.com/coolbutuseless/pacman) - full code for a 
   playable game based on Pacman.
+  
   <img src="image/pacman-game.gif" width="70%" />
-* [`AnotherWorld`](https://github.com/coolbutuseless/anotherworld) - full code 
-  AnotherWorld game written and playable in R.  **Coming Soon**
+  
   
   
 ### `{eventloop}` Demos
