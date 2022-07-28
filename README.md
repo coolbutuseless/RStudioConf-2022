@@ -5,6 +5,9 @@
 This repository contains links and resources related to my talk at 
 RStudioConf 2022.
 
+This talk explores how to create fast interactive graphical applications using 
+just R.
+
 <img src="image/polygons-of-another-world-realtime_talk-opt4.png" width = "50%" />
 
 
@@ -12,7 +15,8 @@ RStudioConf 2022.
 ### Slides + Materials
 
 * [PDF slides for talk](presentation-final.pdf) (exported from Keynote)
-    * See the [`video`](video) directory in this repo for all the animations and videos
+    * See the [`video`](video) directory in this repo for all the animations and videos 
+      (which will obviously not show up in the PDF!)
 * [View my Talk on RStudio Conf Schedule](https://rstudioconf2022.sched.com/event/11ibb)
 * Original inspiration for this talk comes  [Fabien Sanglard's blog series](https://fabiensanglard.net/another_world_polygons/index.html) where 
 they detail the struture of the game and how it was ported to different 
@@ -44,19 +48,6 @@ gaming platforms.
   playable game based on Pacman.
   
   <img src="image/pacman-game.gif" width="70%" />
-  
-  
-  
-### `{eventloop}` Demos
-
-|   |   |
-|---|---|
-| [Grid-based drawing <br/><img src="image/gallery/grid-based.png" width="89%" />](https://coolbutuseless.github.io/package/eventloop/articles/drawing-grid.html)   | [Line-based drawing <br/><img src="image/gallery/line-based.png" width="89%" />](https://coolbutuseless.github.io/package/eventloop/articles/drawing-lines.html)   | 
-| [Streaming plot data <br/><img src="image/gallery/plot-stream.png" width="89%" />](https://coolbutuseless.github.io/package/eventloop/articles/stream-plotting.html) | [Game of Life <br/><img src="image/gallery/game-of-life.png" width="89%" />](https://coolbutuseless.github.io/package/eventloop/articles/game-of-life.html) |
-| [Asteroids<br/><img src="image/gallery/asteroids.png" width="89%" />](https://coolbutuseless.github.io/package/eventloop/articles/game-asteroids.html) |  [Raycast 'Wolfenstein' 3d engine <br/><img src="image/gallery/raycast.png" width="89%"  />](https://coolbutuseless.github.io/package/eventloop/articles/game-raycaster.html) |  
-| [Wordle <br/><img src="image/gallery/wordle.png" width="89%" />](https://coolbutuseless.github.io/package/eventloop/articles/game-wordle.html) | [Interactive Mystery Curves <br/><img src="image/gallery/mystery-curves.png" width="89%" />](https://coolbutuseless.github.io/package/eventloop/articles/verbose-example.html) | 
-| [Verbose example <br/><img src="image/gallery/debug.png" width="89%" />](https://coolbutuseless.github.io/package/eventloop/articles/verbose-example.html) | [Particles <br/><img src="image/gallery/particles.png" width="89%" />](https://coolbutuseless.github.io/package/eventloop/articles/demo-particles.html) |
-  
   
   
 ## Limitation - WindowsOS
