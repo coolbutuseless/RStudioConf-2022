@@ -44,7 +44,7 @@ gaming platforms.
   
 ### Games: Pacman
 
-* [`pacman`](https://github.com/coolbutuseless/pacman) - full code for a 
+* [`pacman`](https://github.com/coolbutuseless/pacman) - full R code for a 
   playable game based on Pacman.
   
   <img src="image/pacman-game.gif" width="70%" />
